@@ -1,0 +1,7 @@
+C:\Users\91814\source\repos\day3classcsharp\day3classcsharp\bin\Debug\day3classcsharp.exe.config
+C:\Users\91814\source\repos\day3classcsharp\day3classcsharp\bin\Debug\day3classcsharp.exe
+C:\Users\91814\source\repos\day3classcsharp\day3classcsharp\bin\Debug\day3classcsharp.pdb
+C:\Users\91814\source\repos\day3classcsharp\day3classcsharp\obj\Debug\day3classcsharp.csproj.CoreCompileInputs.cache
+C:\Users\91814\source\repos\day3classcsharp\day3classcsharp\obj\Debug\day3classcsharp.exe
+C:\Users\91814\source\repos\day3classcsharp\day3classcsharp\obj\Debug\day3classcsharp.pdb
+C:\Users\91814\source\repos\day3classcsharp\day3classcsharp\obj\Debug\day3classcsharp.csprojAssemblyReference.cache
